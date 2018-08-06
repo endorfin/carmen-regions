@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rene.kersten@gmail.com"]
   spec.description   = %q{Add regions to Carmen::Country}
   spec.summary       = %q{Add regions to Carmen::Country}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/endorfin/carmen-regions"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
