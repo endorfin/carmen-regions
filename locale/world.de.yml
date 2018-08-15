@@ -1,0 +1,750 @@
+---
+de:
+  world:
+    ad:
+      region: Europa
+      sub_region: Südeuropa
+    ae:
+      region: Asien
+      sub_region: Westasien
+    af:
+      region: Asien
+      sub_region: Südasien
+    ag:
+      region: Amerikas
+      sub_region: Karibik
+    ai:
+      region: Amerikas
+      sub_region: Karibik
+    al:
+      region: Europa
+      sub_region: Südeuropa
+    am:
+      region: Asien
+      sub_region: Westasien
+    ao:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    aq:
+      region: ''
+      sub_region: ''
+    ar:
+      region: Amerikas
+      sub_region: Südamerika
+    as:
+      region: Ozeanien
+      sub_region: Polynesien
+    at:
+      region: Europa
+      sub_region: Westeuropa
+    au:
+      region: Ozeanien
+      sub_region: Australien und Neuseeland
+    aw:
+      region: Amerikas
+      sub_region: Karibik
+    ax:
+      region: Europa
+      sub_region: Nordeuropa
+    az:
+      region: Asien
+      sub_region: Westasien
+    ba:
+      region: Europa
+      sub_region: Südeuropa
+    bb:
+      region: Amerikas
+      sub_region: Karibik
+    bd:
+      region: Asien
+      sub_region: Südasien
+    be:
+      region: Europa
+      sub_region: Westeuropa
+    bf:
+      region: Afrika
+      sub_region: Westafrika
+    bg:
+      region: Europa
+      sub_region: Osteuropa
+    bh:
+      region: Asien
+      sub_region: Westasien
+    bi:
+      region: Afrika
+      sub_region: Ostafrika
+    bj:
+      region: Afrika
+      sub_region: Westafrika
+    bl:
+      region: Amerikas
+      sub_region: Karibik
+    bm:
+      region: Amerikas
+      sub_region: Nordamerika
+    bn:
+      region: Asien
+      sub_region: Südostasien
+    bo:
+      region: Amerikas
+      sub_region: Südamerika
+    bq:
+      region: Amerikas
+      sub_region: Karibik
+    br:
+      region: Amerikas
+      sub_region: Südamerika
+    bs:
+      region: Amerikas
+      sub_region: Karibik
+    bt:
+      region: Asien
+      sub_region: Südasien
+    bv:
+      region: Amerikas
+      sub_region: Südamerika
+    bw:
+      region: Afrika
+      sub_region: Südliches Afrika
+    by:
+      region: Europa
+      sub_region: Osteuropa
+    bz:
+      region: Amerikas
+      sub_region: Mittelamerika
+    ca:
+      region: Amerikas
+      sub_region: Nordamerika
+    cc:
+      region: Ozeanien
+      sub_region: Australien und Neuseeland
+    cd:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    cf:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    cg:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    ch:
+      region: Europa
+      sub_region: Westeuropa
+    ci:
+      region: Afrika
+      sub_region: Westafrika
+    ck:
+      region: Ozeanien
+      sub_region: Polynesien
+    cl:
+      region: Amerikas
+      sub_region: Südamerika
+    cm:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    cn:
+      region: Asien
+      sub_region: Ostasien
+    co:
+      region: Amerikas
+      sub_region: Südamerika
+    cr:
+      region: Amerikas
+      sub_region: Mittelamerika
+    cu:
+      region: Amerikas
+      sub_region: Karibik
+    cv:
+      region: Afrika
+      sub_region: Westafrika
+    cw:
+      region: Amerikas
+      sub_region: Karibik
+    cx:
+      region: Ozeanien
+      sub_region: Australien und Neuseeland
+    cy:
+      region: Asien
+      sub_region: Westasien
+    cz:
+      region: Europa
+      sub_region: Osteuropa
+    de:
+      region: Europa
+      sub_region: Westeuropa
+    dj:
+      region: Afrika
+      sub_region: Ostafrika
+    dk:
+      region: Europa
+      sub_region: Nordeuropa
+    dm:
+      region: Amerikas
+      sub_region: Karibik
+    do:
+      region: Amerikas
+      sub_region: Karibik
+    dz:
+      region: Afrika
+      sub_region: Nordafrika
+    ec:
+      region: Amerikas
+      sub_region: Südamerika
+    ee:
+      region: Europa
+      sub_region: Nordeuropa
+    eg:
+      region: Afrika
+      sub_region: Nordafrika
+    eh:
+      region: Afrika
+      sub_region: Nordafrika
+    er:
+      region: Afrika
+      sub_region: Ostafrika
+    es:
+      region: Europa
+      sub_region: Südeuropa
+    et:
+      region: Afrika
+      sub_region: Ostafrika
+    fi:
+      region: Europa
+      sub_region: Nordeuropa
+    fj:
+      region: Ozeanien
+      sub_region: Melanesien
+    fk:
+      region: Amerikas
+      sub_region: Südamerika
+    fm:
+      region: Ozeanien
+      sub_region: Mikronesien
+    fo:
+      region: Europa
+      sub_region: Nordeuropa
+    fr:
+      region: Europa
+      sub_region: Westeuropa
+    ga:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    gb:
+      region: Europa
+      sub_region: Nordeuropa
+    gd:
+      region: Amerikas
+      sub_region: Karibik
+    ge:
+      region: Asien
+      sub_region: Westasien
+    gf:
+      region: Amerikas
+      sub_region: Südamerika
+    gg:
+      region: Europa
+      sub_region: Kanalinseln
+    gh:
+      region: Afrika
+      sub_region: Westafrika
+    gi:
+      region: Europa
+      sub_region: Südeuropa
+    gl:
+      region: Amerikas
+      sub_region: Nordamerika
+    gm:
+      region: Afrika
+      sub_region: Westafrika
+    gn:
+      region: Afrika
+      sub_region: Westafrika
+    gp:
+      region: Amerikas
+      sub_region: Karibik
+    gq:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    gr:
+      region: Europa
+      sub_region: Südeuropa
+    gs:
+      region: Amerikas
+      sub_region: Südamerika
+    gt:
+      region: Amerikas
+      sub_region: Mittelamerika
+    gu:
+      region: Ozeanien
+      sub_region: Mikronesien
+    gw:
+      region: Afrika
+      sub_region: Westafrika
+    gy:
+      region: Amerikas
+      sub_region: Südamerika
+    hk:
+      region: Asien
+      sub_region: Ostasien
+    hm:
+      region: Ozeanien
+      sub_region: Australien und Neuseeland
+    hn:
+      region: Amerikas
+      sub_region: Mittelamerika
+    hr:
+      region: Europa
+      sub_region: Südeuropa
+    ht:
+      region: Amerikas
+      sub_region: Karibik
+    hu:
+      region: Europa
+      sub_region: Osteuropa
+    id:
+      region: Asien
+      sub_region: Südostasien
+    ie:
+      region: Europa
+      sub_region: Nordeuropa
+    il:
+      region: Asien
+      sub_region: Westasien
+    im:
+      region: Europa
+      sub_region: Nordeuropa
+    in:
+      region: Asien
+      sub_region: Südasien
+    io:
+      region: Afrika
+      sub_region: Ostafrika
+    iq:
+      region: Asien
+      sub_region: Westasien
+    ir:
+      region: Asien
+      sub_region: Südasien
+    is:
+      region: Europa
+      sub_region: Nordeuropa
+    it:
+      region: Europa
+      sub_region: Südeuropa
+    je:
+      region: Europa
+      sub_region: Kanalinseln
+    jm:
+      region: Amerikas
+      sub_region: Karibik
+    jo:
+      region: Asien
+      sub_region: Westasien
+    jp:
+      region: Asien
+      sub_region: Ostasien
+    ke:
+      region: Afrika
+      sub_region: Ostafrika
+    kg:
+      region: Asien
+      sub_region: Zentralasien
+    kh:
+      region: Asien
+      sub_region: Südostasien
+    ki:
+      region: Ozeanien
+      sub_region: Mikronesien
+    km:
+      region: Afrika
+      sub_region: Ostafrika
+    kn:
+      region: Amerikas
+      sub_region: Karibik
+    kp:
+      region: Asien
+      sub_region: Ostasien
+    kr:
+      region: Asien
+      sub_region: Ostasien
+    kw:
+      region: Asien
+      sub_region: Westasien
+    ky:
+      region: Amerikas
+      sub_region: Karibik
+    kz:
+      region: Asien
+      sub_region: Zentralasien
+    la:
+      region: Asien
+      sub_region: Südostasien
+    lb:
+      region: Asien
+      sub_region: Westasien
+    lc:
+      region: Amerikas
+      sub_region: Karibik
+    li:
+      region: Europa
+      sub_region: Westeuropa
+    lk:
+      region: Asien
+      sub_region: Südasien
+    lr:
+      region: Afrika
+      sub_region: Westafrika
+    ls:
+      region: Afrika
+      sub_region: Südliches Afrika
+    lt:
+      region: Europa
+      sub_region: Nordeuropa
+    lu:
+      region: Europa
+      sub_region: Westeuropa
+    lv:
+      region: Europa
+      sub_region: Nordeuropa
+    ly:
+      region: Afrika
+      sub_region: Nordafrika
+    ma:
+      region: Afrika
+      sub_region: Nordafrika
+    mc:
+      region: Europa
+      sub_region: Westeuropa
+    md:
+      region: Europa
+      sub_region: Osteuropa
+    me:
+      region: Europa
+      sub_region: Südeuropa
+    mf:
+      region: Amerikas
+      sub_region: Karibik
+    mg:
+      region: Afrika
+      sub_region: Ostafrika
+    mh:
+      region: Ozeanien
+      sub_region: Mikronesien
+    mk:
+      region: Europa
+      sub_region: Südeuropa
+    ml:
+      region: Afrika
+      sub_region: Westafrika
+    mm:
+      region: Asien
+      sub_region: Südostasien
+    mn:
+      region: Asien
+      sub_region: Ostasien
+    mo:
+      region: Asien
+      sub_region: Ostasien
+    mp:
+      region: Ozeanien
+      sub_region: Mikronesien
+    mq:
+      region: Amerikas
+      sub_region: Karibik
+    mr:
+      region: Afrika
+      sub_region: Westafrika
+    ms:
+      region: Amerikas
+      sub_region: Karibik
+    mt:
+      region: Europa
+      sub_region: Südeuropa
+    mu:
+      region: Afrika
+      sub_region: Ostafrika
+    mv:
+      region: Asien
+      sub_region: Südasien
+    mw:
+      region: Afrika
+      sub_region: Ostafrika
+    mx:
+      region: Amerikas
+      sub_region: Mittelamerika
+    my:
+      region: Asien
+      sub_region: Südostasien
+    mz:
+      region: Afrika
+      sub_region: Ostafrika
+    na:
+      region: Afrika
+      sub_region: Südliches Afrika
+    nc:
+      region: Ozeanien
+      sub_region: Melanesien
+    ne:
+      region: Afrika
+      sub_region: Westafrika
+    nf:
+      region: Ozeanien
+      sub_region: Australien und Neuseeland
+    ng:
+      region: Afrika
+      sub_region: Westafrika
+    ni:
+      region: Amerikas
+      sub_region: Mittelamerika
+    nl:
+      region: Europa
+      sub_region: Westeuropa
+    'no':
+      region: Europa
+      sub_region: Nordeuropa
+    np:
+      region: Asien
+      sub_region: Südasien
+    nr:
+      region: Ozeanien
+      sub_region: Mikronesien
+    nu:
+      region: Ozeanien
+      sub_region: Polynesien
+    nz:
+      region: Ozeanien
+      sub_region: Australien und Neuseeland
+    om:
+      region: Asien
+      sub_region: Westasien
+    pa:
+      region: Amerikas
+      sub_region: Mittelamerika
+    pe:
+      region: Amerikas
+      sub_region: Südamerika
+    pf:
+      region: Ozeanien
+      sub_region: Polynesien
+    pg:
+      region: Ozeanien
+      sub_region: Melanesien
+    ph:
+      region: Asien
+      sub_region: Südostasien
+    pk:
+      region: Asien
+      sub_region: Südasien
+    pl:
+      region: Europa
+      sub_region: Osteuropa
+    pm:
+      region: Amerikas
+      sub_region: Nordamerika
+    pn:
+      region: Ozeanien
+      sub_region: Polynesien
+    pr:
+      region: Amerikas
+      sub_region: Karibik
+    ps:
+      region: Asien
+      sub_region: Westasien
+    pt:
+      region: Europa
+      sub_region: Südeuropa
+    pw:
+      region: Ozeanien
+      sub_region: Mikronesien
+    py:
+      region: Amerikas
+      sub_region: Südamerika
+    qa:
+      region: Asien
+      sub_region: Westasien
+    re:
+      region: Afrika
+      sub_region: Ostafrika
+    ro:
+      region: Europa
+      sub_region: Osteuropa
+    rs:
+      region: Europa
+      sub_region: Südeuropa
+    ru:
+      region: Europa
+      sub_region: Osteuropa
+    rw:
+      region: Afrika
+      sub_region: Ostafrika
+    sa:
+      region: Asien
+      sub_region: Westasien
+    sb:
+      region: Ozeanien
+      sub_region: Melanesien
+    sc:
+      region: Afrika
+      sub_region: Ostafrika
+    sd:
+      region: Afrika
+      sub_region: Nordafrika
+    se:
+      region: Europa
+      sub_region: Nordeuropa
+    sg:
+      region: Asien
+      sub_region: Südostasien
+    sh:
+      region: Afrika
+      sub_region: Westafrika
+    si:
+      region: Europa
+      sub_region: Südeuropa
+    sj:
+      region: Europa
+      sub_region: Nordeuropa
+    sk:
+      region: Europa
+      sub_region: Osteuropa
+    sl:
+      region: Afrika
+      sub_region: Westafrika
+    sm:
+      region: Europa
+      sub_region: Südeuropa
+    sn:
+      region: Afrika
+      sub_region: Westafrika
+    so:
+      region: Afrika
+      sub_region: Ostafrika
+    sr:
+      region: Amerikas
+      sub_region: Südamerika
+    ss:
+      region: Afrika
+      sub_region: Ostafrika
+    st:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    sv:
+      region: Amerikas
+      sub_region: Mittelamerika
+    sx:
+      region: Amerikas
+      sub_region: Karibik
+    sy:
+      region: Asien
+      sub_region: Westasien
+    sz:
+      region: Afrika
+      sub_region: Südliches Afrika
+    tc:
+      region: Amerikas
+      sub_region: Karibik
+    td:
+      region: Afrika
+      sub_region: Mittleres Afrika
+    tf:
+      region: Afrika
+      sub_region: Ostafrika
+    tg:
+      region: Afrika
+      sub_region: Westafrika
+    th:
+      region: Asien
+      sub_region: Südostasien
+    tj:
+      region: Asien
+      sub_region: Zentralasien
+    tk:
+      region: Ozeanien
+      sub_region: Polynesien
+    tl:
+      region: Asien
+      sub_region: Südostasien
+    tm:
+      region: Asien
+      sub_region: Zentralasien
+    tn:
+      region: Afrika
+      sub_region: Nordafrika
+    to:
+      region: Ozeanien
+      sub_region: Polynesien
+    tr:
+      region: Asien
+      sub_region: Westasien
+    tt:
+      region: Amerikas
+      sub_region: Karibik
+    tv:
+      region: Ozeanien
+      sub_region: Polynesien
+    tw:
+      region: Asien
+      sub_region: Ostasien
+    tz:
+      region: Afrika
+      sub_region: Ostafrika
+    ua:
+      region: Europa
+      sub_region: Osteuropa
+    ug:
+      region: Afrika
+      sub_region: Ostafrika
+    um:
+      region: Ozeanien
+      sub_region: Mikronesien
+    us:
+      region: Amerikas
+      sub_region: Nordamerika
+    uy:
+      region: Amerikas
+      sub_region: Südamerika
+    uz:
+      region: Asien
+      sub_region: Zentralasien
+    va:
+      region: Europa
+      sub_region: Südeuropa
+    vc:
+      region: Amerikas
+      sub_region: Karibik
+    ve:
+      region: Amerikas
+      sub_region: Südamerika
+    vg:
+      region: Amerikas
+      sub_region: Karibik
+    vi:
+      region: Amerikas
+      sub_region: Karibik
+    vn:
+      region: Asien
+      sub_region: Südostasien
+    vu:
+      region: Ozeanien
+      sub_region: Melanesien
+    wf:
+      region: Ozeanien
+      sub_region: Polynesien
+    ws:
+      region: Ozeanien
+      sub_region: Polynesien
+    ye:
+      region: Asien
+      sub_region: Westasien
+    yt:
+      region: Afrika
+      sub_region: Ostafrika
+    za:
+      region: Afrika
+      sub_region: Südliches Afrika
+    zm:
+      region: Afrika
+      sub_region: Ostafrika
+    zw:
+      region: Afrika
+      sub_region: Ostafrika
